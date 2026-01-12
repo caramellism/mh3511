@@ -10,9 +10,9 @@ factors influencing booking completion and to explore the association between tr
 ## Dataset
 - Source: British Airways Customer Booking Dataset (Kaggle -> https://www.kaggle.com/datasets/minnikeswarrao/british-airways-customer-booking)
 - Key Variables:
--> Trip characteristics: sales channel, purchase lead time, flight duration, length of stay
--> Customer preferences: in-flight meals, extra baggage, seat selection
--> Booking completion indicator
+  - Trip characteristics: sales channel, purchase lead time, flight duration, length of stay
+  - Customer preferences: in-flight meals, extra baggage, seat selection
+  - Booking completion indicator (1/0)
 
 ## Methods 
 - Data cleaning and preprocessing 
