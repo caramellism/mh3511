@@ -21,8 +21,8 @@ factors influencing booking completion and to explore the association between tr
 - Logistic regression analysis to study how customer preferences and trip characteristics are associated with booking completion and how trip characteristics are associated with preference selection outcomes
 
 ## Key Findings
+- Optional add-ons (customer preferences) showed a statistically significant association with booking completion likelihood
 - Some trip characteristics showed significant associations with customer preference selections
-- Customer preferences exhibited statistically meaningful relationships with booking completion likelihood
 - Results highlight how customer behavior and trip characteristics influence booking outcomes
 
 ## Tools
