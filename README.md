@@ -5,7 +5,8 @@ This project analyzes customer booking data from British Airways to identify
 factors influencing booking completion and to explore the association between trip characteristics and customer preferences, with the aim of increasing booking completion rates and enabling more targeted promotions and offers.
 
 ## Dashboard Overview
-<img width="2225" height="1255" alt="image" src="https://github.com/user-attachments/assets/72715ceb-9cbf-4e18-8eb4-d074383417da" /> <img width="2234" height="1257" alt="image" src="https://github.com/user-attachments/assets/ca0e8f41-968e-4e6d-9b8e-83c14a5d3e02" />
+<img width="2225" height="1255" alt="image" src="https://github.com/user-attachments/assets/72715ceb-9cbf-4e18-8eb4-d074383417da" /> <img width="2226" height="1256" alt="image" src="https://github.com/user-attachments/assets/a741d768-5cca-4cd7-ac68-bf27d5d41cc3" />
+
 
 ## Dataset
 - Source: British Airways Customer Booking Dataset (Kaggle -> https://www.kaggle.com/datasets/minnikeswarrao/british-airways-customer-booking)
