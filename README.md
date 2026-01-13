@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes customer booking data from British Airways to identify
-factors influencing booking completion and to explore the association between trip characteristics and customer preferences
+factors influencing booking completion and to explore the association between trip characteristics and customer preferences, with the aim of increasing booking completion rates and enabling more targeted promotions and offers.
 
 ## Dashboard Overview
 <img width="2225" height="1255" alt="image" src="https://github.com/user-attachments/assets/72715ceb-9cbf-4e18-8eb4-d074383417da" /> <img width="2234" height="1257" alt="image" src="https://github.com/user-attachments/assets/ca0e8f41-968e-4e6d-9b8e-83c14a5d3e02" />
